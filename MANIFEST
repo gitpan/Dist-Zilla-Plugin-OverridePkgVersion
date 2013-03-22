@@ -1,0 +1,8 @@
+Changes
+LICENSE
+MANIFEST
+META.json
+META.yml
+Makefile.PL
+lib/Dist/Zilla/Plugin/OverridePkgVersion.pm
+t/release-pod-syntax.t
